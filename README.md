@@ -8,8 +8,12 @@
 
 > Simple Todo list app built with React hooks
 
-### 🏠 [Homepage](https://github.com/yashlalpotu11/Wunderlist#readme)
+# Demo
 
+### LINK: https://yash-wunderlist.netlify.app/ 
+
+<!-- ### 🏠 [Homepage](https://github.com/yashlalpotu11/Wunderlist#readme)
+ -->
 ## Prerequisites
 
 - node >=11.0.0
@@ -19,14 +23,26 @@
 ## Installation
 
 ```bash
-	# git clone https://github.com/yashlalpotu11/Wunderlist.git
-	cd Wunderlist
+   # git clone https://github.com/yashlalpotu11/Wunderlist.git
+   cd Wunderlist
 	
-	npm install
-	npm start    # Yes, ONE command for server AND client development!
+   npm install
+   npm start    # Yes, ONE command for server AND client development!
 	
 ```
 Go To **http://localhost:3000/**
+
+<p align="center">
+  <img alt="Light" src="assets/img1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="assets/img2.jpg" width="45%">	
+</p>
+<p align="center">
+	<img alt="Dark" src="assets/img3.jpg" width="45%">
+</p>
+
+<!-- <img src="assets/img1.jpg" width=40% height=50%>
+<img src="assets/img2.jpg" width=40% height=50%> -->
 
 ## Author
 
